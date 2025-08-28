@@ -194,6 +194,14 @@ a[data-fancybox] img {
 	display: none;
 }
 
+.footer__bar {
+	padding: 1rem;
+	font-size: 1rem;
+	color: #fff;
+	background-color: #111111;
+	text-align: center;
+}
+
 @media (max-width: 600px) {
 	.gallery__item {
 		max-width: 100%;
